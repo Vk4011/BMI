@@ -1,4 +1,5 @@
 import React from 'react'
+import './Bmi.css'
 
 function Bmi() {
   return (
@@ -31,8 +32,9 @@ function Bmi() {
           <span className="radio-label">Female</span>
         </label>
       </div>
+    </div>
       <button>Calculate</button>
-    </div></form>
+    </form>
 </div>
 
  
