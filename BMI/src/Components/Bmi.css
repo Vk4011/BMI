@@ -1,0 +1,11 @@
+#myForm{
+    display: flex;
+    flex-direction: column;
+
+}
+.h>input{
+    padding: 0.5rem;
+}
+.w>input{
+    padding: 0.5rem;
+}
